@@ -1,0 +1,13 @@
+{
+    "BOT_TOKEN": "OTU0MDAxODI4MTg4Njg0MzA4.YjMxcA.Xu17wBLBaPXWn916t4yMHi82hSA",
+    "SERVER_URL": "178.32.50.51:30131",
+    "SERVER_LOGO": "https://cdn.discordapp.com/avatars/398440911677292555/c6e0274834bdc7a8c1def1b74d2c97af.png?size=256",
+    "SERVER_NAME": "Enerius V",
+    "PREFIX": "+",
+    "CHANNELS_ID":{
+        "SUGGESTIONS":"id de salon",
+        "MEMES":"id de salon",
+        "ANIMALS":"id de salon"
+    }
+    
+}
